@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: red;
+    height: 80px;
+    padding: 20px;
+}
+h1, h2, h3, h4, h5, h6, p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+p{
+    color:blanchedalmond;
+    font-size: 50px;
+}
+div{ width: 250px;
+    height: 250px;
+    border: 5px solid crimson;
+    margin: 75px;
+    border-radius: 13px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px 8px 8px 8px;
+
+}
